@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Narek Meloyan</h1>
 <h3 align="center">A passionate backend developer from Armenia</h3>
 <img align = "right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNoOG03eG5rcmpnbmVxa2MzOWk0NzhjbWlmOHpkaGw3dWt6eWcyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
